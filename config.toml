@@ -1,3 +1,5 @@
 baseURL = "https://www.mynook.info"
 title = "Homepage - My Nook"
 enableRobotsTXT = true
+disableSitemap = true
+disableRSS = true
