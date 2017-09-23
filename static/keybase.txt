@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jokerqyou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mynook.info
+  * I am jokerqyou (https://keybase.io/jokerqyou) on keybase.
+  * I have a public key with fingerprint 0A66 2175 C399 7E84 A6FA  8794 9932 1BCE 08B7 38B8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f16fa31615edab6210f9722a25b150eaf31821f6cd6916bd83b22a74cb855d7a0a",
+            "fingerprint": "0a662175c3997e84a6fa879499321bce08b738b8",
+            "host": "keybase.io",
+            "key_id": "99321bce08b738b8",
+            "kid": "010141807fdb148f0ca94b8bd25385844f0d1f145571d05df81ad7fd47b7f747a5660a",
+            "uid": "6666eb53d181ce0783dc48e97431bd19",
+            "username": "jokerqyou"
+        },
+        "service": {
+            "hostname": "mynook.info",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1461615771,
+    "expire_in": 157680000,
+    "prev": "25502394179b063dcacb605bc41a00ef78123c208f2b1b1a93a915144472fc18",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtUmtMFFcUXh6iEstDCg0sD5mUWoHC3Jk7r02qUiEaoKQmdbUipXNn7uAUnVl2
+l8e6YB8WrY+GUilSG5qWxiqaoBaMC21DwBZr5JnUojTWkogtUipCazGKdIbov54/
+N/ec7/vOd869Hz4VYAn2+4Sy9i85z/v8Lo8jy+b4Sp+XQLrsIWxeohgvHHiHjF3u
+wmJVJmwECShSAawi0oAFDJZFxFKAVASOokSKQYAhsajQgKeAwkoyKwAWyTyNjCoH
+JcQzjMyJpEikEoqqFWGnw6lqblNWZA0djpFoQeAwD0WjA88JUBBoCiAJkzziaB7x
+BnG77jIZhjkkunCaqhs541K4YO9/8E98kwACnuQUGQHIK6QkChDxSKYYmmd4CBVS
+BgqADMMBmWRkhQeibIAhhziFg5zIsOyC79IFOdYIjBhaBjwwunE8LUuQxwIHaYBk
+IJhAF3Zq4k5soN/Ui7GzxKOXElWphJEuUyVsbtYc5TFkp0fT9eI0VVPMeRxO3a1L
++g6jsN3tdrhsJtHtcZjIcowKH2sUIlWTjT0ajDLsdKm6RtiAgZTcqikKIGs+EseB
+VAJXOFQnLlRNBMOxPGmE2QeXGZIUw5AULbwGAScgkjVmESXEkgySIBBJEiscDyha
+okheoRBAQBRoUQAMgBBylCIBc80uXKLphI2iDKNikSHqUos00V3qxERV8H7/2ECL
+X7AlaJG/+cUswUvDnvy7gzOh8/a4b8Ne9j/9eQrTEr242tn9VsPdBCZ6Kj3n2USx
+fqLl/nzPz1PnbtnWhCcM7PosMiBi4nBj5kRWoK/11JGaP3MHZr3Lju9KbrLsSWx/
+Dsr6hpUXj7VqSYmlzNC9mdTA4KjwEU+KFu6g469ujLi9vqAyKoHtVWDOtL2WPtYR
+G6O+/c53VU3X4zsat/buXTWTledlthy4lLmmJHlw+tB4z8ag/SpsCOodLKhyvR9/
+KW1s9Rs5HTWT16n+uxUJD7D15J2RPF9MdgbRXmdvvlxQVPe7fVu921W2aV1NVMLo
+isM/DlU6vh8tLpvLr00qOB0hvtppbeoOkJenDC5t6s3rOvBoa8bsdNfDW9n+eSH2
+8pDbf/R9QBJPfywfWcSH5l9c1ccHXYiza3Sb50R+0igOjDtztWFJ0SaHOzL8p/Dm
+0Mj3tuV2v+A70zaAvWkDIwoF21Z8rfflT+3mvrj57tm0YWUioOtowvLqQ9e+HLJy
+vr0d4vT5iPt7Ts4X1LeuzYhbTx8ffzFHPueXOTy5+aW6xdXWpMwKyRsdMpc+NNfw
+683GZzb8kNLzsPpaOT574pG998rzlsqYrPTZT/Paa4f/Sc4dOxW2LMV6L2v30Y90
+9M3rfGfnV3+9srqFmB8r7Y/wm1u7zu24sfICvBPmbJze90v2jbYHuVf+DqEyJ/+N
+bfZf0bcl+beafSP/AQ==
+=0zQ6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jokerqyou
+
+==================================================================
+
