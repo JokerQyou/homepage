@@ -1,0 +1,3 @@
+/blog    https://blog.mynook.info/*    301!
+/blog/    https://blog.mynook.info/    301!
+/blog/:year/:month/:day/:slug.html    https://blog.mynook.info/post/:slug    301!

@@ -2,3 +2,24 @@ baseURL = "https://www.mynook.info"
 title = "Homepage - My Nook"
 enableRobotsTXT = true
 disableKinds = ["RSS", "sitemap", "taxonomy"]
+
+[outputs]
+home = [ "HTML", "RSS", "HEADERS", "REDIRECTS"]
+
+[outputFormats.HEADERS]
+baseName = "_headers"
+mediatype = "text/netlify"
+isPlainText = true
+notAlternative = true
+
+[outputFormats.REDIRECTS]
+baseName = "_redirects"
+mediatype = "text/netlify"
+isPlainText = true
+notAlternative = true
+
+[mediaTypes]
+
+[mediaTypes."text/netlify"]
+suffix = ""
+delimiter = ""
