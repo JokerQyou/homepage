@@ -6,9 +6,3 @@ publish = "public"
 
     [context.production.environment]
         HUGO_VERSION = "0.55.0"
-
-[[headers]]
-for = "/*"
-
-    [headers.value]
-    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
